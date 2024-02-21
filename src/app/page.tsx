@@ -466,7 +466,7 @@ export default function Home() {
               <div className="flex">
                 <div className="">
                   <Image
-                    src="/assets/Group11.png"
+                    src="/assets/Group1.png"
                     width={30}
                     height={30}
                     alt=""
