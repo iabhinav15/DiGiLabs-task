@@ -25,7 +25,7 @@ export default function Home() {
             </div>
             <div className=''>
               <Image
-                src="/assets/Icon (1).png"
+                src="/assets/Icon(1).png"
                 width={18}
                 height={18}
                 alt=""
@@ -33,14 +33,14 @@ export default function Home() {
             </div>
             <div className=''>
               <Image
-                src="/assets/Icon (3).png"
+                src="/assets/Icon(3).png"
                 width={18}
                 height={18}
                 alt=""
               /></div>
             <div className=''>
               <Image
-                src="/assets/Icon (4).png"
+                src="/assets/Icon(4).png"
                 width={18}
                 height={18}
                 alt=""
@@ -66,7 +66,7 @@ export default function Home() {
             </div>
             <div className=''>
               <Image
-                src="/assets/Icon (6).png"
+                src="/assets/Icon(6).png"
                 width={20}
                 height={18}
                 alt=""
@@ -97,7 +97,7 @@ export default function Home() {
               </div>
               <div className="bg-[#409BEE] h-[60px] w-[60px] rounded-[20px] flex justify-center items-center relative ml-[-38px]">
                 <Image
-                  src="/assets/Icon (7).png"
+                  src="/assets/Icon(7).png"
                   width={18}
                   height={20}
                   alt=""
@@ -119,7 +119,7 @@ export default function Home() {
                     <div className="bg-[#409BEE] w-[50px] h-[54px] rounded-b-[30px] text-[#FFFFFF] font-[700] text-[14px] flex justify-center items-center flex-col">
                       <div>
                         <Image
-                          src="/assets/Icon (8).png"
+                          src="/assets/Icon(8).png"
                           width={14}
                           height={7}
                           alt=""
@@ -133,7 +133,7 @@ export default function Home() {
                   <div className="flex gap-2">
                     <div className="bg-[#409BEE] w-[24px] h-[16px] rounded-[15px] flex justify-center items-center">
                       <Image
-                        src="/assets/Icon (9).png"
+                        src="/assets/Icon(9).png"
                         width={10}
                         height={8}
                         alt=""
@@ -155,7 +155,7 @@ export default function Home() {
                       <h3 className="text-[#FFFFFF] font-[700] text-[16px]">Aliza Shah</h3>
                       <div className="flex gap-2">
                         <Image
-                          src="/assets/Icon (10).png"
+                          src="/assets/Icon(10).png"
                           width={14}
                           height={12}
                           alt=""
@@ -179,7 +179,7 @@ export default function Home() {
                     <div className="text-[#FFFFFF] text-[12px] font-[500] ">Weekly </div>
                     <div className="">
                       <Image
-                        src="/assets/Icon (11).png"
+                        src="/assets/Icon(11).png"
                         width={14}
                         height={12}
                         alt=""
@@ -193,7 +193,7 @@ export default function Home() {
                     <div className="text-[#FFFFFF] font-[700] text-[14px] ">82%</div>
                     <div className="">
                       <Image
-                        src="/assets/Icon (12).png"
+                        src="/assets/Icon(12).png"
                         width={14}
                         height={7}
                         alt="" />
@@ -203,14 +203,14 @@ export default function Home() {
                   </div>
                   <div className=" ">
                     <Image
-                      src="/assets/Vector (1).png"
+                      src="/assets/Vector(1).png"
                       width={300}
                       height={10}
                       alt=""
                       className=" "
                     />
                     <Image
-                      src="/assets/Vector (2).png"
+                      src="/assets/Vector(2).png"
                       width={320}
                       height={10}
                       alt=""
@@ -240,7 +240,7 @@ export default function Home() {
                         <h3 className="text-[#000000] font-[700] text-[14px] ">Mark jaxon</h3>
                         <div className="flex gap-1">
                           <Image
-                            src="/assets/Icon (13).png"
+                            src="/assets/Icon(13).png"
                             width={9}
                             height={9}
                             alt=""
@@ -253,9 +253,9 @@ export default function Home() {
                   <div className="flex items-center gap-10">
                     <div className="text-[#CCCCCC] font-[600] text-[12px] ">09:00 am</div>
                     <div className="w-[190px] h-[50px] bg-[#E5F5E6] rounded-[20px] flex items-center pl-4 ">
-                      <div className="h-[36] w-[36] ">
+                      <div className="h-[36px] w-[36px] ">
                         <Image
-                          src="/assets/Mask group.png"
+                          src="/assets/Mask-group.png"
                           width={23}
                           height={30}
                           alt=""
@@ -265,7 +265,7 @@ export default function Home() {
                         <h3 className="text-[#000000] font-[700] text-[14px] ">Maira khan</h3>
                         <div className="flex gap-1">
                           <Image
-                            src="/assets/Icon (13).png"
+                            src="/assets/Icon(13).png"
                             width={9}
                             height={9}
                             alt=""
@@ -290,7 +290,7 @@ export default function Home() {
                         <h3 className="text-[#000000] font-[700] text-[14px] ">Brick Zon</h3>
                         <div className="flex gap-1">
                           <Image
-                            src="/assets/Icon (13).png"
+                            src="/assets/Icon(13).png"
                             width={9}
                             height={9}
                             alt=""
@@ -312,7 +312,7 @@ export default function Home() {
                     <div className="w-[190px] h-[50px] bg-[#C1E2F4] rounded-[20px] flex items-center pl-4 ">
                       <div className="h-[36] w-[36] ">
                         <Image
-                          src="/assets/Mask group (1).png"
+                          src="/assets/Maskgroup(1).png"
                           width={23}
                           height={30}
                           alt=""
@@ -322,7 +322,7 @@ export default function Home() {
                         <h3 className="text-[#000000] font-[700] text-[14px] ">Alexa Max</h3>
                         <div className="flex gap-1">
                           <Image
-                            src="/assets/Icon (13).png"
+                            src="/assets/Icon(13).png"
                             width={9}
                             height={9}
                             alt=""
@@ -342,7 +342,7 @@ export default function Home() {
                       <div className="text-[#FFFFFF] text-[18px] font-[600px] ">Team Meeting</div>
                       <div className="flex gap-1">
                         <Image
-                          src="/assets/Icon (14).png"
+                          src="/assets/Icon(14).png"
                           width={12}
                           height={12}
                           alt=""
@@ -353,7 +353,7 @@ export default function Home() {
                     </div>
                     <div className="bg-[#2C3A58] w-[60px] h-[60px] rounded-[20px] flex justify-center items-center">
                       <Image
-                        src="/assets/Icon (15).png"
+                        src="/assets/Icon(15).png"
                         width={20}
                         height={20}
                         alt=""
@@ -388,7 +388,7 @@ export default function Home() {
                       </div>
                       <div className="relative ml-[-8px]">
                         <Image
-                          src="/assets/Ellipse 8.png"
+                          src="/assets/Ellipse8.png"
                           width={36}
                           height={36}
                           alt=""
@@ -399,7 +399,7 @@ export default function Home() {
                     </div>
                     <div className="bg-[#409BEE] w-[54px] h-[40px] rounded-[15px] flex justify-center items-center ">
                       <Image
-                        src="/assets/Icon (16).png"
+                        src="/assets/Icon(16).png"
                         width={20}
                         height={20}
                         alt="" />
@@ -424,7 +424,7 @@ export default function Home() {
                       <div className="text-[#FFFFFF] font-[700] text-[16px] ">82%</div>
                       <div className="">
                         <Image
-                          src="/assets/Icon (12).png"
+                          src="/assets/Icon(12).png"
                           width={14}
                           height={7}
                           alt="" />
@@ -433,7 +433,7 @@ export default function Home() {
                     <div className="relative">
                     <div className="w-[80px] h-[80px] border-[#FFFFFF] border-[15px] rounded-[50%]  "></div>
                       <Image
-                        src="/assets/Ellipse 24.png"
+                        src="/assets/Ellipse24.png"
                         width={80}
                         height={80}
                         alt=""
@@ -466,7 +466,7 @@ export default function Home() {
               <div className="flex">
                 <div className="">
                   <Image
-                    src="/assets/Group 11.png"
+                    src="/assets/Group11.png"
                     width={30}
                     height={30}
                     alt=""
@@ -474,21 +474,21 @@ export default function Home() {
                 </div>
                 <div className="ml-[-5px]">
                   <Image
-                    src="/assets/Group 12.png"
+                    src="/assets/Group12.png"
                     width={30}
                     height={30}
                     alt=""
                     className="bg-[#FCD5D8] rounded-[50%] " /></div>
                 <div className="ml-[-5px]">
                   <Image
-                    src="/assets/Group 13.png"
+                    src="/assets/Group13.png"
                     width={30}
                     height={30}
                     alt=""
                     className="bg-[#FCD5D8] rounded-[50%]" /></div>
                 <div className="ml-[-5px] relative">
                   <Image
-                    src="/assets/Ellipse 8.png"
+                    src="/assets/Ellipse8.png"
                     width={30}
                     height={30}
                     alt=""
@@ -557,7 +557,7 @@ export default function Home() {
             <div className="bg-[#2C3A58] w-[330px] flex justify-between items-center pl-4 pr-2 py-2 rounded-[20px] ">
               <div className="">
                 <Image
-                  src="/assets/Icon (17).png"
+                  src="/assets/Icon(17).png"
                   width={14}
                   height={20}
                   alt=""
@@ -568,7 +568,7 @@ export default function Home() {
               
               <div className="bg-[#409BEE] w-[50px] h-[50px] rounded-[20px] flex justify-center items-center ">
                 <Image
-                  src="/assets/Icon (18).png"
+                  src="/assets/Icon(18).png"
                   width={20}
                   height={20}
                   alt=""/>
